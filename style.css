@@ -8,3 +8,9 @@
 @media(max-width:400px){.stats.athlete-stats article strong{font-size:20px}.stats.athlete-stats article{padding:12px 10px}}
 
 .category-label{display:inline-flex;align-items:center;gap:8px}.category-label svg{color:#FF1122;flex-shrink:0}
+
+/* Coordinated update: single page scrollbar and compact RPE labels */
+.permission-list{max-height:none;overflow:visible;grid-template-columns:repeat(2,minmax(0,1fr))}
+.rpe-chip{min-width:58px;flex-shrink:0;padding:7px 9px;border-radius:8px;background:#edf3fc;color:#012169;font-size:11px;font-weight:800;text-align:center}
+.history-item{flex-wrap:wrap}.history-item .outline{flex-shrink:0}
+@media(max-width:650px){.permission-list{grid-template-columns:1fr}.history-item{align-items:flex-start}.history-item .outline{padding:8px}}

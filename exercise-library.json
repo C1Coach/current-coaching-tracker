@@ -1,0 +1,513 @@
+[
+  {
+    "category": "Push",
+    "name": "Incline press-up",
+    "bodyweight": true,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Push",
+    "name": "Floor press-up",
+    "bodyweight": true,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Push",
+    "name": "Weighted press-up",
+    "bodyweight": false,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Push",
+    "name": "Decline press-up",
+    "bodyweight": true,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Push",
+    "name": "Overhead press",
+    "bodyweight": false,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Push",
+    "name": "Z press",
+    "bodyweight": false,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Push",
+    "name": "Handstand walks",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Push",
+    "name": "Tricep dips on a bench",
+    "bodyweight": true,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Push",
+    "name": "Medicine ball push-throws",
+    "bodyweight": false,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Pull",
+    "name": "Banded bent-over row",
+    "bodyweight": false,
+    "band": true,
+    "gym": false
+  },
+  {
+    "category": "Pull",
+    "name": "Single-arm bent-over row",
+    "bodyweight": false,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Pull",
+    "name": "Supine row – bent",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Pull",
+    "name": "Supine row – straight",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Pull",
+    "name": "Elevated supine row",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Pull",
+    "name": "Single-arm supine row",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Pull",
+    "name": "Dead hangs",
+    "bodyweight": true,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Pull",
+    "name": "Band-assisted pull-ups",
+    "bodyweight": false,
+    "band": true,
+    "gym": false
+  },
+  {
+    "category": "Pull",
+    "name": "Chin-ups",
+    "bodyweight": true,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Pull",
+    "name": "Pull-ups",
+    "bodyweight": true,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Pull",
+    "name": "Upright row – wide",
+    "bodyweight": false,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Pull",
+    "name": "Upright row – narrow",
+    "bodyweight": false,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Pull",
+    "name": "Banded bicep curls",
+    "bodyweight": false,
+    "band": true,
+    "gym": false
+  },
+  {
+    "category": "Stabilising trunk",
+    "name": "Front plank",
+    "bodyweight": true,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Stabilising trunk",
+    "name": "Side plank",
+    "bodyweight": true,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Stabilising trunk",
+    "name": "Knee elevated bird dog",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Stabilising trunk",
+    "name": "Dead bug",
+    "bodyweight": true,
+    "band": true,
+    "gym": false
+  },
+  {
+    "category": "Stabilising trunk",
+    "name": "Bear crawls",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Stabilising trunk",
+    "name": "Crab crawls",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Stabilising trunk",
+    "name": "Monkey crawls",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Stabilising trunk",
+    "name": "Pallof press",
+    "bodyweight": false,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Stabilising trunk",
+    "name": "Pallof raise",
+    "bodyweight": false,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Stabilising trunk",
+    "name": "Copenhagen plank",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Stabilising trunk",
+    "name": "Star plank",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Stabilising trunk",
+    "name": "Angel hold",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Dynamic trunk",
+    "name": "Cobra",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Dynamic trunk",
+    "name": "Lunging stick rotation",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Dynamic trunk",
+    "name": "Overhead side reach",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Dynamic trunk",
+    "name": "Hip hikes",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Dynamic trunk",
+    "name": "Sit-ups",
+    "bodyweight": true,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Dynamic trunk",
+    "name": "Seated J curls",
+    "bodyweight": true,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Dynamic trunk",
+    "name": "Side plank hip drops",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Dynamic trunk",
+    "name": "Leg lowers",
+    "bodyweight": true,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Dynamic trunk",
+    "name": "Medicine ball side throws",
+    "bodyweight": false,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Dynamic trunk",
+    "name": "Lunging medicine ball side throws",
+    "bodyweight": false,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Dynamic trunk",
+    "name": "Medicine ball rotational slams",
+    "bodyweight": false,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Dynamic trunk",
+    "name": "Medicine ball overhead rebounds",
+    "bodyweight": false,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Shoulder complex",
+    "name": "Rib cage press-ups",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Shoulder complex",
+    "name": "Banded scapular retraction",
+    "bodyweight": false,
+    "band": true,
+    "gym": false
+  },
+  {
+    "category": "Shoulder complex",
+    "name": "Cross body downward dog",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Shoulder complex",
+    "name": "Overhead carry",
+    "bodyweight": false,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Shoulder complex",
+    "name": "Screwdriver",
+    "bodyweight": false,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Shoulder complex",
+    "name": "Teacup",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Shoulder complex",
+    "name": "Banded chest fly",
+    "bodyweight": false,
+    "band": true,
+    "gym": false
+  },
+  {
+    "category": "Shoulder complex",
+    "name": "Pull-aparts",
+    "bodyweight": false,
+    "band": true,
+    "gym": false
+  },
+  {
+    "category": "Squatting",
+    "name": "Thumbs up squat",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Squatting",
+    "name": "Goblet squat",
+    "bodyweight": false,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Squatting",
+    "name": "Overhead squat",
+    "bodyweight": true,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Squatting",
+    "name": "Lunge hold",
+    "bodyweight": true,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Squatting",
+    "name": "Lunge",
+    "bodyweight": true,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Squatting",
+    "name": "Reverse lunge",
+    "bodyweight": true,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Squatting",
+    "name": "Side lunge",
+    "bodyweight": true,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Squatting",
+    "name": "Pistol squats",
+    "bodyweight": true,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Squatting",
+    "name": "Overhead pistol squats",
+    "bodyweight": true,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Hinging",
+    "name": "Kneeling bum to ankle",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Hinging",
+    "name": "Double-leg glute bridge",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Hinging",
+    "name": "Bum to wall",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Hinging",
+    "name": "Glute bridge marches",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Hinging",
+    "name": "Hamstring walkouts",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Hinging",
+    "name": "Single-leg toe touch",
+    "bodyweight": true,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Hinging",
+    "name": "Weighted glute bridge",
+    "bodyweight": false,
+    "band": false,
+    "gym": true
+  },
+  {
+    "category": "Hinging",
+    "name": "RDL",
+    "bodyweight": false,
+    "band": true,
+    "gym": true
+  },
+  {
+    "category": "Hinging",
+    "name": "Single-leg glute bridge",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  },
+  {
+    "category": "Hinging",
+    "name": "Single-leg hamstring bridge",
+    "bodyweight": true,
+    "band": false,
+    "gym": false
+  }
+]
